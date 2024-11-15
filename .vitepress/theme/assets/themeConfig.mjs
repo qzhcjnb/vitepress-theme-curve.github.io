@@ -239,11 +239,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "mailto:qinweizh@icloud.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://www.github.com/qzhcjnb/",
       },
       {
         icon: "telegram",
@@ -251,11 +251,11 @@ export const themeConfig = {
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        link: "https://b23.tv/ShZy8sg",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
+        link: "https://qm.qq.com/q/bldm2PVoOs",
       },
       {
         icon: "twitter-x",

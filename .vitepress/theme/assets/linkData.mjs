@@ -4,25 +4,19 @@ const linkData = [
   {
     type: "rec",
     typeName: "推荐",
-    typeDesc: "都是大佬，推荐关注",
+    typeDesc: "有些可能跑路了",
     typeList: [
       {
-        name: "阮一峰",
-        avatar: "https://pic.efefee.cn/uploads/2024/02/26/65dc5fb729cdb.webp",
-        desc: "阮老师，知名博主，大佬中的大佬",
-        url: "https://www.ruanyifeng.com/blog/",
+        name: "吾爱破解",
+        avatar: "https://www.52pojie.cn/",
+        desc: "破解软件论坛",
+        url: "https://www.52pojie.cn",
       },
       {
-        name: "张洪 Heo",
-        avatar: "https://pic.efefee.cn/uploads/2024/02/26/65dc5304b211c.webp",
-        desc: "产品设计师，独立开发者，设计与科技分享",
-        url: "https://blog.zhheo.com/",
-      },
-      {
-        name: "杜老师说",
-        avatar: "https://pic.efefee.cn/uploads/2024/02/28/65de92770fb66.webp",
-        desc: "高级网络工程师，网站技术运营总监，系统运维、架构设计以及优化专家",
-        url: "https://dusays.com/",
+        name: "影视飓风官网",
+        avatar: "https://www.ysjf.com/img/%E5%A4%B4%E5%9B%BE.54857e59.png",
+        desc: "无限进步！",
+        url: "https://www.ysjf.com/",
       },
       {
         name: "XAOXUU",
@@ -47,8 +41,8 @@ const linkData = [
   // 小伙伴们
   {
     type: "friends",
-    typeName: "小伙伴们",
-    typeDesc: "我们在一起，共同进步",
+    typeName: "这个主题的作者",
+    typeDesc: "一个独立开发者",
     typeList: [
       {
         name: "無名小栈",

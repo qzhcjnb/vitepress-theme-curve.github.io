@@ -152,11 +152,6 @@ export const themeConfig = {
           name: "主站",
           url: "/",
         },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
-        },
       ],
     },
     {
@@ -170,7 +165,7 @@ export const themeConfig = {
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
           name: "今日热榜",
-          url: "https://hot.imsyy.top/",
+          url: "https://dailyhot.qzhcjnb.com/",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
@@ -333,7 +328,7 @@ export const themeConfig = {
       js: "https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/twikoo/1.6.39/twikoo.all.min.js",
       envId: "",
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
-      region: "ap-shanghai",
+      region: "",
       lang: "zh-CN",
     },
   },
